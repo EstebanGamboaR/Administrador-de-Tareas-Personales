@@ -2,9 +2,7 @@
 # Universidad Fidélitas
 # Curso: Programación Básica
 # Proyecto Final: Administrador de Tareas Personales
-# Grupo #2
-# Integrantes: Esteban Gamboa
-# Docente: Joshua Loria
+# Integrante: Esteban Gamboa
 # ------------------------------------------------------------------
 
 # Usuarios y claves autorizados
