@@ -3,12 +3,12 @@
 # Curso: Programación Básica
 # Proyecto Final: Administrador de Tareas Personales
 # Grupo #2
-# Integrantes: Luis Rodriguez, Carlos Rivera y Esteban Gamboa
+# Integrantes: Esteban Gamboa
 # Docente: Joshua Loria
 # ------------------------------------------------------------------
 
 # Usuarios y claves autorizados
-usuariosAutorizados = ["admin", "luis", "carlos"]
+usuariosAutorizados = ["admin", "esteban", "carlos"]
 contrasenaAutorizadas = ["123", "123456", "123456"]
 
 # Arreglos los datos de las tareas
